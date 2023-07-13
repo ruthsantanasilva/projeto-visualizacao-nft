@@ -1,4 +1,4 @@
-# <a href="https://ruthsantanasilva.github.io/projeto-visualizacao-nft/">Segue minha versão do Desafio neste link!</>
+# <a href="https://ruthsantanasilva.github.io/projeto-visualizacao-nft/">Segue minha versão do Desafio neste link!</a>
 ---------------------------------------------------------------------------------------------------------------------------------------------
 # Frontend Mentor - NFT preview card component
 
