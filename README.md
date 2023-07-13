@@ -1,3 +1,5 @@
+# <a href="https://ruthsantanasilva.github.io/projeto-visualizacao-nft/">Segue minha versão do Desafio neste link!</a>
+---------------------------------------------------------------------------------------------------------------------------------------------
 # Frontend Mentor - NFT preview card component
 
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
